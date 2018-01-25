@@ -1,2 +1,2 @@
 # Sis-Liga
-Sistema-ligas
+Sistema-ligas deportivas
